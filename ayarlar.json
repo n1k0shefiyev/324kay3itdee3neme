@@ -1,0 +1,45 @@
+  {
+    "OKUMADANGECME" : "Aşağıdaki tamamen boş bırakılan yerlere ID girin OKUDUKTAN SONRA burayı silebilirsiniz + Olarak emojileri ID olarak koymazsanız çalışmaz",
+    "OKUMADANGECME2" : "TOKEN .env kısmında TOKEN yazan yerin karşısına tokeninizi yapıstırınız.",
+
+    "sahip" : "289464872222064651",
+    "prefix" : ".",
+    "footer" : "Botlar Gezegeni ❤️ Nihad",
+
+    "tag" : "👽",
+    "sembol" : " ",
+  
+    "yetkiliRol" : ["855043582192386069", "2. YOKSA BOŞ BIRAK", "3. YOKSA BOŞ BIRAK"],
+    "vipRol" : "840899018254843924",
+    "boosterRol" : "839058850564669502",
+    "kayıtsızRol" : "855043256973525043",
+    "erkekRol1" : "855043257763364874",
+    "erkekRol2" : "855677239290494976",
+    "kadınRol1" : "855138818717122561",
+    "kadınRol2" : "855677241942212648",
+
+    "sifirEmoji" : "855682983544356894",
+    "birEmoji" : "855682120542191656",
+    "ikiEmoji" : "855682122937139230",
+    "ucEmoji" : "855682122986422293",
+    "dortEmoji" : "855682119899414589",
+    "besEmoji" : "855682116498751488",
+    "altiEmoji" : "855682123981258752",
+    "yediEmoji" : "855682123222614037",
+    "sekizEmoji" : "855682125293682718",
+    "dokuzEmoji" : "855682123259969587",
+
+    "tagRol" : "855678172066611210",
+
+    "hosgeldinKanal" : "855084357651398676",
+    "hosgeldinMesajEmoji" : "834693613119733780",
+    "hosgeldinMesajYetkili": "855043582192386069",
+    "rulesKanal" : "855049057344028702",
+
+    "sohbetKanal" : "855051453123264542", 
+  
+    "botSesKanal" : "855061830871678996",
+  
+    "yes" : "837999865224233001",
+    "no" : "837357935134900304"
+}
